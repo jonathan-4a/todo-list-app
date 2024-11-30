@@ -48,7 +48,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone git@github.com:jonathan-4a/todo-list-app.git
-cd task-management-app
+cd todo-list-app
 ```
 
 This repository contains two main directories: api and frontend.
