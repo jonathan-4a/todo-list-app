@@ -13,7 +13,6 @@ This Task Management Application is a full-stack project that combines a React f
 - **Infinite Sub-Task Creation:** Users can create sub-tasks with no limit to their depth, allowing for flexible task organization.
 - **Responsive Design:** The application is designed to be user-friendly across desktop and tablet devices.
 
-#### Loom video Link: [Link](https://www.loom.com/share/bf115eb4c4d24db39a2e54ca7656ec68?sid=5ba0781b-4614-4049-a2fa-ff1458f99805)
 
 ## Technologies Used
 
